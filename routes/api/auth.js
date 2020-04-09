@@ -72,8 +72,7 @@ router.post(
           }]
         });
       }
-      
-
+  
       //Return JWT
 
       const payload = {
