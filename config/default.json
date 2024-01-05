@@ -1,6 +1,2 @@
 {
-  "mongoURI": "mongodb+srv://raluganea:raluganea@devconnector-oqghg.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken",
-  "githubClientId":"f2257d5fe7766622ef5b",
-  "githubSecret":"db670a6dfcf0b3c6e32087bb844c5143ad2ab057"
 }
